@@ -29,22 +29,20 @@ Some of the custom measures:
 - **Churn Rate** = % of customers who churned  
 - **Lost Revenue** = Total monthly charges of churned customers  
 - **Retained Revenue** = Total monthly charges of retained customers  
-- **Profit Margin %** (for scenario analysis)  
+- **Churn %** = Lost Revenue / Lost Revenue + Retained Revenue 
 
 ---
 
 ## 📊 Dashboard Highlights
 ### **Page 1 – Overview**
-- Donut Chart → Churn split (Yes vs No)  
-- KPI Cards → Churn Rate, Lost Revenue, Retained Revenue  
-- Column Chart → Churn by Monthly Charges (bucketed)  
+
+<img width="1300" height="730" alt="image" src="https://github.com/user-attachments/assets/626ccb34-2246-4444-aa0d-f2dc9f8533ec" />
+
 
 ### **Page 2 – Deep Dive**
-- Churn by **Tenure Groups**  
-- Churn by **Contract Type**  
-- Churn by **Services (Internet, Streaming, Security, etc.)**  
-- Churn by **Monthly Charges (Bins)**  
-- **Slicers** for Gender, Senior Citizen, Payment Method, Internet Service  
+
+<img width="1302" height="711" alt="image" src="https://github.com/user-attachments/assets/37f5a0b7-c2a3-47d2-b3d0-5ca1040ff1fc" />
+
 
 ---
 
