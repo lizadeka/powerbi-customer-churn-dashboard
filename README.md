@@ -68,12 +68,8 @@ Some of the custom measures:
 
 ---
 
-## 🙌 Acknowledgments
-Dataset inspired by common **Telco Customer Churn** datasets used for analytics practice.  
-This project helped me understand how to:  
-- Build a Power BI dashboard from scratch  
-- Apply DAX for metrics  
-- Use slicers and visuals for storytelling  
-
----
-
+## About Me  
+👋 Hi, I'm Liza Deka — a data enthusiast.  
+   I enjoy building projects, analyzing real-world data, and sharing insights through GitHub and LinkedIn. 
+   
+  📬 Let’s Connect: <a href="https://www.linkedin.com/in/liza-deka-869473369/">LinkedIn</a>
